@@ -14,7 +14,7 @@ A pasta está organizada por disciplina ou tipo de projeto para facilitar a nave
 - **`Desenvolvimento Seguro`**: Projetos que exploram a criação de código robusto e a prevenção de vulnerabilidades.
 - **`Outros`**: Projetos e exercícios diversos.
 
-
+###  Conteúdo organizado por pastas e subpastas
 
 ### 🔑 Contribuições e Contato
 
